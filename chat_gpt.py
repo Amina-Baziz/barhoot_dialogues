@@ -43,8 +43,7 @@ while True:
     try:
         completion = client.chat.completions.create(
             model=DEPLOYMENT_NAME,
-            messages=messages,
-            temperature=0.7,
+            messages=messages
         )
         
         reply = completion.choices[0].message.content
