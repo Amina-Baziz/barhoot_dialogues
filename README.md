@@ -141,6 +141,12 @@ The application also requires a specific API key for Vertex AI / Gemini.
     
     *Save the file.*
 
+3.  **Enter your Azure OpenAI Key**:
+    If you want to use the GPT model, add your Azure OpenAI key to the `.env` file as well:
+    ```text
+    AZURE_OPENAI_KEY=your_key_here
+    ```
+
 ---
 
 ## Step 6: Run the Application
@@ -155,6 +161,11 @@ python chat.py
 **To run the Claude chat:**
 ```bash
 python chat_claude.py
+```
+
+**To run the GPT chat (Azure OpenAI):**
+```bash
+python chat_gpt.py
 ```
 
 ---
