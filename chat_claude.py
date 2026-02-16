@@ -4,19 +4,27 @@ import sys
 import requests
 from dotenv import load_dotenv
 
-load_dotenv()
+import google.auth
+from google.auth.transport.requests import Request
 
-API_KEY = os.getenv("VERTEX_AI_KEY")
-if not API_KEY:
-    print("Error: VERTEX_AI_KEY not set. Copy .env.example to .env and add your key.")
-    sys.exit(1)
-
+# Get configuration
+PROJECT_ID = "prj-udst-prod-oussama-1"
+REGION = "us-east5"
 MODEL = "claude-opus-4-6"
-API_URL = f"https://aiplatform.googleapis.com/v1/publishers/anthropic/models/{MODEL}:rawPredict"
+
+# Authenticate with Google Cloud (ADC)
+creds, project = google.auth.default()
+creds.refresh(Request())
+ACCESS_TOKEN = creds.token
+
+API_URL = f"https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT_ID}/locations/{REGION}/publishers/anthropic/models/{MODEL}:rawPredict"
 
 resp = requests.post(
     API_URL,
-    params={"key": API_KEY},
+    headers={
+        "Authorization": f"Bearer {ACCESS_TOKEN}",
+        "Content-Type": "application/json; charset=utf-8",
+    },
     json={
         "anthropic_version": "vertex-2023-10-16",
         "messages": [{"role": "user", "content": "Explain what a large language model is in one paragraph."}],
