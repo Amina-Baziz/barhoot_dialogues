@@ -1,0 +1,247 @@
+{
+  "name": "villager_stories",
+  "gate_outcome": "opens",
+  "prior_meeting": false,
+  "transcript": [
+    {
+      "speaker": "Red Giantess",
+      "text": "You are small for a trespasser, and you are not screaming, which is the usual etiquette for falling down the well. Most who arrive here are broken by the drop or paralyzed by the dark. Why do you stand before my father's gate with dirt on your knees?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "My brother Omar fell in. I came down to get him back."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Another lost thing looking for another lost thing. That is tedious and common, and I am not in the mood for common tragedies today. Before I decide if you are food or a curiosity, tell me what the breathing ones up there say about this place."
+    },
+    {
+      "speaker": "Salim",
+      "text": "They say it's a hole to the bottom of the world. They say if you shout into it, something shouts back."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Something shouts back. How dramatic. Usually it is just the wind caught in the basalt flutes, but sometimes we do answer when the noise is particularly annoying. What else do the old women whisper while they cook?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "They say the Jinn down here are angry. That you hate us because we live in the sun and you have to live in the dark."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Hate requires energy I do not wish to spend on things that die in eighty years. We pity you, mostly, for burning your skin every day and calling it a blessing. Do they give us names, these storytellers?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "They call the King Al-Ahmar. But they don't have a name for you."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "No name for the daughter who holds the keys. Typical of the surface to forget the hand that turns the lock while fearing the room behind it. And what do they say the King does to trespassers like your brother?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "They say he turns them into smoke. That he keeps them in bottles so they can never die."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Smoke in bottles is a primitive idea, though I have seen him keep certain essences in glass when they amuse him long enough. You are shaking, boy. Is it the stories that scare you, or the truth standing in front of you?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "I'm not scared of stories. I'm scared because I haven't heard Omar make a sound since we fell."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Silence is the only mercy this place offers, so you should envy him the quiet. If he is still whole, he is merely stunned by the change in air pressure. Now, distract me from the dull reality of physics—what do they say about the treasures I guard?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "They say the room is full of rubies big enough to break a man's foot. And that the gold piles are higher than the houses."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Rubies and gold piles are the dreams of starving men, not the reality of a royal vault. We value things that cannot be dug out of the dirt by any peasant with a shovel. Do they think we are merely dragons sitting on a mound of shiny rocks?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "They say the jewels glow in the dark. That they are eyes of the dead watching us."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "That is a slightly more poetic lie, though the dead have very little interest in watching the living make mistakes. The glow comes from the phosphorescent moss on the ceiling, not the souls of your ancestors. What of the dangers—do they speak of monsters or merely bad luck?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "They talk about the Ghoul. The one that mimics voices to trick you."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "The Ghoul is a scavenger, a low creature that eats scraps and echoes. It is amusing that your people fear the bottom-feeders more than the ones who rule them. It tells me you do not understand true power at all."
+    },
+    {
+      "speaker": "Salim",
+      "text": "They also say if you sleep near the well, you dream of a woman weeping."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "That is... a specific detail to invent. I do not weep, and I certainly do not broadcast my moods to shepherds sleeping in the dirt. Who told you that particular lie?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "My grandmother told me. She said the woman cries because she lost something she can't get back."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Your grandmother sounds like a woman who projects her own grief onto the wind. We do not lose things here; we keep them, or we destroy them. There is no middle ground for loss."
+    },
+    {
+      "speaker": "Salim",
+      "text": "She didn't say it was a Jinn woman. Just a mother."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Mothers always think the universe shares their biology, as if a geological fissure can feel a cramp. It is a pathetic projection. Tell me a different story—one that does not involve weeping women."
+    },
+    {
+      "speaker": "Salim",
+      "text": "There was a boy named Walid who lived three houses down from us. He came here looking for a stray goat and never came back."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "A boy and a goat—the classic tragedy of the agrarian simpleton. I assume he slipped and fell, adding his small bones to the rubbish heap?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "No one knows how he fell. But the next day his mother found his sandals neatly side by side at the edge of the pit."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Placed side by side? That is a deliberate gesture, rare for the clumsy creatures that usually tumble down here. It suggests he entered willingly, which is either very brave or very stupid."
+    },
+    {
+      "speaker": "Salim",
+      "text": "His mother took them. She came back every evening to talk to the well, telling Walid what happened in the village that day."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "And let me guess—the village thinks the well listened? That the stones softened because a woman wasted her evenings whispering into the void?"
+    },
+    {
+      "speaker": "Salim",
+      "text": "No one thought the well listened. They just thought she was crazy for talking to a hole that took her son."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "They were right to think her mad, but wrong about the listening. The acoustics here are flawless; we were forced to hear every mundane detail of her goats and her grain."
+    },
+    {
+      "speaker": "Salim",
+      "text": "She wasn't miserable though. She sounded happy when she talked to him, like she believed he was safe down here."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Happy? She was speaking to a grave, describing sunlight to a boy who was likely already dust. That is not happiness, that is a delusion so potent it borders on art."
+    },
+    {
+      "speaker": "Salim",
+      "text": "It wasn't a delusion to her. It was the only way she could keep being his mother."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "You frame her delusion as a virtue, which is a very human habit. To me, speaking to a void that does not answer is not love, it is a failure of pattern recognition."
+    },
+    {
+      "speaker": "Salim",
+      "text": "She didn't need an answer. She just needed him to hear her."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "And you assume the acoustics of the abyss obeyed her wishes? Though I will admit, the vibration of her voice was... difficult to ignore."
+    },
+    {
+      "speaker": "Salim",
+      "text": "My father said she was wasting her breath, but she never missed a night."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Wasting? No, she was carving out space. She filled my tunnels with the debris of her small life until I found myself waiting for the sunset just to hear if that wretched goat had finally died."
+    },
+    {
+      "speaker": "Salim",
+      "text": "The goat outlived her. She died last winter."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "A quiet end for such a loud spirit. The silence she left behind was sharper than the noise; it was an irritant of a different kind."
+    },
+    {
+      "speaker": "Salim",
+      "text": "She didn't want silence. That's why I came down here instead of just talking to the dirt."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "You came to fill the void she left? You are a very small boy to make such a large claim, and my father's guards are not as patient as I am."
+    },
+    {
+      "speaker": "Salim",
+      "text": "I didn't come to make claims. I came to get Omar."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Then you are foolish enough to be interesting. The gate is open; go and make your own noise, little echo, before I remember how much I despise intruders."
+    },
+    {
+      "speaker": "Salim",
+      "text": "I'm going."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "You say you are going, yet your feet are rooted to the stone. The fear is smarter than you are."
+    },
+    {
+      "speaker": "Salim",
+      "text": "I'm not stuck. I'm just making sure I don't slip."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "There is no path to check. There is only the drop and the darkness that catches you."
+    },
+    {
+      "speaker": "Salim",
+      "text": "Then I'll climb down the wall carefully."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "You truly believe you can climb into the belly of the earth and simply climb back out? It is an insult to the gravity of this place."
+    },
+    {
+      "speaker": "Salim",
+      "text": "Walid's mother talked to the well for twenty years. That was harder than climbing."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "There it is again—that persistent, illogical reverence for endurance. It is a quality I have not tasted in a long time."
+    },
+    {
+      "speaker": "Salim",
+      "text": "It wasn't reverence. It was just her life."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "And now it is your life. I wonder if anyone will leave sandals for you when you do not return."
+    },
+    {
+      "speaker": "Salim",
+      "text": "My mother won't leave sandals. She'll come down here herself."
+    },
+    {
+      "speaker": "Red Giantess",
+      "text": "Then I shall look forward to her visit. Step through, boy, before I decide to keep you as a pet instead."
+    },
+    {
+      "speaker": "Salim",
+      "text": "I'm going to find him."
+    }
+  ]
+}
